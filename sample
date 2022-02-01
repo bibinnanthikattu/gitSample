@@ -1,0 +1,49 @@
+[33mcommit a0f3311aea635dc6dfaf61c848cd62ca9f7675b4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 2e4ee56 84ae5b4
+Author: Bibin Nandikattu Jose <bibinnanthikattu@hotmail.com>
+Date:   Tue Feb 1 20:10:59 2022 +0100
+
+    created a file
+
+[33mcommit 84ae5b4dce8518325a9165a17c47a4a5670a3632[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Bibin Nandikattu Jose <bibinnanthikattu@hotmail.com>
+Date:   Tue Feb 1 10:32:12 2022 +0100
+
+    hello is modified
+
+[33mcommit 2e4ee5682b112be805c351535afd7078f07a637d[m
+Merge: 1700fdc 48fa9ca
+Author: Bibin Nandikattu Jose <bibinnanthikattu@hotmail.com>
+Date:   Tue Feb 1 10:28:30 2022 +0100
+
+    a file is ready to modify
+
+[33mcommit 48fa9ca621504f25fab679889d96b8d6a3b27839[m
+Author: Bibin Nandikattu Jose <bibinnanthikattu@hotmail.com>
+Date:   Tue Feb 1 10:05:40 2022 +0100
+
+    feature is updated again
+
+[33mcommit 1700fdcc7b53f4bd3d52c86445af9a2320635de5[m
+Author: Bibin Nandikattu Jose <bibinnanthikattu@hotmail.com>
+Date:   Tue Feb 1 10:03:37 2022 +0100
+
+    feature updated
+
+[33mcommit b9e6235e0f91691c9ca97ce77ec419394962b758[m
+Author: Bibin Nandikattu Jose <bibinnanthikattu@hotmail.com>
+Date:   Tue Feb 1 09:43:00 2022 +0100
+
+    second file added
+
+[33mcommit e4d75ef44890f1c789a8efe9e28c163c3ff122d2[m
+Author: Bibin Nandikattu Jose <bibinnanthikattu@hotmail.com>
+Date:   Tue Feb 1 09:03:01 2022 +0100
+
+    this is an other modification
+
+[33mcommit 6c563d21a70594dcb20650565c448e4aaa18cb02[m
+Author: Bibin Nandikattu Jose <bibinnanthikattu@hotmail.com>
+Date:   Tue Feb 1 08:46:06 2022 +0100
+
+    initialized commit
