@@ -1,5 +1,6 @@
 this is a sample file
 
 Trying recursive merge
-
 I am good . What about you?
+
+Hi, what's up?
